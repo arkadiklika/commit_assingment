@@ -5,7 +5,7 @@ This project comprises a React frontend and a Nest.js backend. The frontend is d
 ## Frontend Setup
 
 ### Prerequisites
-- Node.js (recommended version: 14.x)
+- Node.js (version 21.6.2)
 - npm or yarn
 
 ### Steps to Run
@@ -23,7 +23,7 @@ REACT_APP_SERVER_URL=http://localhost:3001
 ## Backend Setup
 
 ### Prerequisites
-- Node.js (recommended version: 14.x)
+- Node.js (version 21.6.2)
 - npm or yarn
 - MongoDB server (installed and running on port 27017)
 
